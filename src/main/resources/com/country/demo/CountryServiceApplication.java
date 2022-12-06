@@ -1,13 +1,13 @@
-package com.example.demo;
+package com.country.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MySpringBootApplication {
+public class CountryServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MySpringBootApplication.class, args);
+		SpringApplication.run(CountryServiceApplication.class, args);
 	}
 
 }
